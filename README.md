@@ -2,7 +2,7 @@
 
 This is an interactive visualization tool for coati calls.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marathomas/viz_tool.git/master?urlpath=%2Fvoila%2Frender%2Fmeerkat_viz_tool.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marathomas/viz_tool.git/main?urlpath=%2Fvoila%2Frender%2Fmeerkat_viz_tool.ipynb)
 
 ## About
 
