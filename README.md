@@ -2,7 +2,8 @@
 
 This is an interactive visualization tool for coati calls.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marathomas/coati_viz.git/HEAD?filepath=%2Fvoila%2Frender%2Fcoati_viz_tool.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marathomas/coati_viz/HEAD?urlpath=%2Fvoila%2Frender%2Fcoati_viz_tool.ipynb)
+
 
 
 ## About
