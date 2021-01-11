@@ -27,5 +27,9 @@ It visualizes 5.113 coati calls. I used unsupervized UMAP (a neighborhood-based 
 
 If the build takes too long (>5min) or functionalities in the tool are missing, close the window and please re-click the badge. Building the app a second time usually does the trick.
 
+## Data
+
+This data is part of an ongoing study and is protected by copyright law, meaning that no one may reproduce, distribute, or create derivative works from it. If you want to use data or code, please get in touch with me.
+
 
 
