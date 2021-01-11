@@ -17,7 +17,7 @@ It visualizes 5.113 coati calls. I used unsupervized UMAP (a neighborhood-based 
 
 * Wait until the app is built (this can take from a few seconds up to 5min if you're doing it for the first time), then initialize the tool by moving your mouse over the 3D plot. 
 
-* When you hover over datapoints with your mouse, you'll be able to see some more details like the sex and status of the meerkat that gave the call and its name/identifier. You'll also see the label that researchers have given to this call. 
+* When you hover over datapoints with your mouse, you'll be able to see some more details like ID of the coati that gave the call. You'll also see the label that researchers have given to this call. 
 * In the lower left corner, you can see a spectrogram of the respective call. 
 * Click on a datapoint to hear the sound.
 
