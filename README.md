@@ -21,13 +21,13 @@ It visualizes 5.113 coati calls. I used unsupervized UMAP (a neighborhood-based 
 * In the lower left corner, you can see a spectrogram of the respective call. 
 * Click on a datapoint to hear the sound.
 
-* **It may happen that the tool is not working properly the first time you build it. Bear with me please and simply close the window and try loading it a second time. It's very likely that it will work now!**
+* If you remain inactive for a longer period of time (10min or so?), the tool won't be reactive anymore, so you need to reload it.
 
 ## Troubleshooting
 
 If the build takes too long (>5min) or functionalities in the tool are missing, close the window and please re-click the badge. Building the app a second time usually does the trick.
 
-## Data
+## Data accessibility
 
 This data is part of an ongoing study and is protected by copyright law, meaning that no one may reproduce, distribute, or create derivative works from it. If you want to use data or code, please get in touch with me.
 
