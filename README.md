@@ -8,7 +8,7 @@ This is an interactive visualization tool for coati calls.
 
 ## About
 
-It visualizes 5.113 coati calls. I used unsupervized UMAP (a neighborhood-based dimensionality reduction method) to embed the call spectrograms into 3D space. Similar calls should be close together in this space, dissimilar calls more distant. All these calls have also been categorized and labelled by human listeners. The color of the datapoints indicates what label group they belong to.
+It visualizes 2.033 coati calls. I used unsupervized UMAP (a neighborhood-based dimensionality reduction method) to embed the call spectrograms into 3D space. Similar calls should be close together in this space, dissimilar calls more distant. All these calls have also been categorized and labelled by human listeners. The color of the datapoints indicates what label group they belong to.
 
 
 ## How to use the tool
@@ -20,7 +20,7 @@ It visualizes 5.113 coati calls. I used unsupervized UMAP (a neighborhood-based 
 * When you hover over datapoints with your mouse, you'll be able to see some more details like ID of the coati that gave the call. You'll also see the label that researchers have given to this call. 
 * In the lower left corner, you can see a spectrogram of the respective call. 
 * Click on a datapoint to hear the sound.
-
+* Click on call groups in the legend to let them disappear/appear
 * If you remain inactive for a longer period of time (10min or so?), the tool won't be reactive anymore, so you need to reload it.
 
 ## Troubleshooting
