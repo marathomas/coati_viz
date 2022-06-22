@@ -5,7 +5,6 @@ This is an interactive visualization tool for coati calls.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marathomas/coati_viz/HEAD?urlpath=%2Fvoila%2Frender%2Fcoati_viz_tool.ipynb)
 
 
-
 ## About
 
 It visualizes 2.033 coati calls. I used unsupervized UMAP (a neighborhood-based dimensionality reduction method) to embed the call spectrograms into 3D space. Similar calls should be close together in this space, dissimilar calls more distant. All these calls have also been categorized and labelled by human listeners. The color of the datapoints indicates what label group they belong to.
